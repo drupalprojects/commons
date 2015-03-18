@@ -61,6 +61,7 @@ projects[boxes][subdir] = "contrib"
 
 projects[ctools][type] = "module"
 projects[ctools][subdir] = "contrib"
+projects[ctools][version] = "1.12"
 
 projects[calendar][type] = "module"
 projects[calendar][subdir] = "contrib"
@@ -188,7 +189,7 @@ projects[mimemail][subdir] = "contrib"
 
 projects[mollom][type] = "module"
 projects[mollom][subdir] = "acquia"
-projects[mollom][version] = "2.11"
+projects[mollom][version] = "2.13"
 
 projects[notifications][type] = "module"
 projects[notifications][subdir] = "contrib"
