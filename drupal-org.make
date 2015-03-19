@@ -189,7 +189,7 @@ projects[mimemail][subdir] = "contrib"
 
 projects[mollom][type] = "module"
 projects[mollom][subdir] = "acquia"
-projects[mollom][version] = "2.13"
+projects[mollom][version] = "2.12"
 
 projects[notifications][type] = "module"
 projects[notifications][subdir] = "contrib"
