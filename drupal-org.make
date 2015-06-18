@@ -78,7 +78,7 @@ projects[chart][patch][] = "http://drupal.org/files/issues/chart-division-by-zer
 
 projects[cck][type] = "module"
 projects[cck][subdir] = "contrib"
-projects[cck][version] = "2.9"
+projects[cck][version] = "2.10"
 
 projects[context][type] = "module"
 projects[context][subdir] = "contrib"
