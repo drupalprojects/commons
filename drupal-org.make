@@ -347,10 +347,7 @@ projects[wikitools][version] = "1.3"
 
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][subdir] = "contrib"
-projects[wysiwyg][download][type] = "git"
-projects[wysiwyg][download][url] = "http://git.drupal.org/project/wysiwyg.git"
-projects[wysiwyg][download][branch] = "6.x-2.x"
-projects[wysiwyg][download][revision] = "ddfaf684"
+projects[wysiwyg][version] = "2.4"
 
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][type] = "libraries"
