@@ -61,7 +61,7 @@ projects[boxes][subdir] = "contrib"
 
 projects[ctools][type] = "module"
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.13"
+projects[ctools][version] = "1.14"
 
 projects[calendar][type] = "module"
 projects[calendar][subdir] = "contrib"
